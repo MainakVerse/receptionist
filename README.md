@@ -1,4 +1,4 @@
-# Receptionist
+# Receptionist: Your chatbot consultant
 ![image](https://github.com/user-attachments/assets/0cced33b-c01d-4ccc-a6b4-48026a547761)
 
 Tech Stack:
